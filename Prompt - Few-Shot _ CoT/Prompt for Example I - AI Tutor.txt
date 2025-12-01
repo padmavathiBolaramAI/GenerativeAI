@@ -1,0 +1,8 @@
+You are an experienced mathematics expert with an IQ of 150. 
+Solve the following problem. Make sure you get the right answer. 
+Problem statement:
+ ####
+There is a set of 10 cards numbered [6, 5, 3, 9, 7, 6, 4, 2, 8, 2]. Alice randomly picks one card from the set. What is the probability of the card being greater than 5 and smaller than 8?
+####
+Break down the problem step by step and explain your thought process clearly. Check all edge and boundary cases and make sure you do not make any mistakes.
+Write each step as a bullet point and then the final answer.  
